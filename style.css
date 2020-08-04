@@ -1,52 +1,5 @@
 body {
-	background-color: #0E273C
+	background-color: #F7F5FB;
 }
 
-header {
-}
 
-nav {
-	background-color: #CEB3AB;
-	height: 100px;
-}
-
-/*
-	Logo Image
-*/
-
-#logo-image {
-	position: absolute;
-	left: 25px;
-	width: 400px;
-	height: 100px;
-}
-
-/*
-	Lists (Navigation Bar Stuff)
-*/
-
-ul {
-	position: absolute;
-	right: 70px;
-	top: 15px;
-}
-
-li {
-	list-style-type: none;
-	float: left;
-}
-
-li a {
-	display: block;
-	background-color: #CEB3AB;
-	padding: 20px 100px;
-	color: black;
-	font-family: 'Amatic SC', cursive;
-	font-size: 30px;
-	text-decoration: none;
-}
-
-li a:hover {
-	background-color: rgba(74, 48, 109, 0.25);
-	color: rgba(255, 255, 255, 1);
-}
