@@ -35,6 +35,7 @@ li.drop-down {
 }
 
 .dropdown-content {
+	float: center;
 	display: none;
 	position: absolute;
 	background-color: #174163;
